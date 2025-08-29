@@ -85,3 +85,4 @@ features:
 - [Stash](https://stashapp.uk) - 简单且强大的网络工具
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
 - [机场推荐](https://jichangtuijian.bid) - 便宜好用的翻墙性价比机场推荐
+- [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
