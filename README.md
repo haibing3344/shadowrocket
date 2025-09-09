@@ -72,21 +72,39 @@ features:
 
 ### 友情链接
 
-- [一元机场](https://1yuan.uk/) - 提供高速稳定的网络服务
+- [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
+- [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
+- [一元机场](https://yiyuanvpn.men/) - 提供高性价比的网络服务
+- [两元店机场](http://2yuan.uk) - 高性价比的VPN科学上网服务
+- [淘气兔机场](https://taoqitu.uk/) - 全中转机场
+- [宝可梦机场](https://baokemeng.bid) - 高速梯子vpn,每月领兑换码可以免费使用
 - [Clash for Windows](https://clashcn.org) - 一款基于 Clash 内核的 Windows 平台代理工具
-- [Clash Verge Rev](https://clash-verge-rev.org) - Clash Verge 的延续,翻墙必备工具
-- [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端。
-- [Mihomo Party](https://mihomo.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
-- [Shadowrocket](https://shadowrocket.uk) - iOS 专业网络工具
-- [Karing](https://karing.uk) - 新一代网络代理工具
+- [Hiddify](https://hiddifycn.org) - Hiddify 是一款基于 Sing-box 的现代化、跨平台代理客户端
+- [Mihomo Party](https://mihomoparty.bid) - 基于Mihomo(Clash Meta)核心的新一代网络代理工具
+- [Shadowrocket(小火箭)](https://xiaohuojian.uk) - iOS 专业网络工具
+- [Karing](https://karings.org) - 新一代网络代理工具,免费
+- [Stash](https://stashapp.uk) - 简单且强大的网络工具
+- [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
+- [机场推荐](https://jichangtuijian.bid) - 便宜好用的翻墙性价比机场推荐
+- [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
+- [Flclash](https://flclash.men) - 基于ClashMeta内核的多平台代理客户端软件
 
 
 ::: tip 🎉 节点推荐
-- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://www.cyberguard.best/#/register?code=XsreC0T5)
-- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://www.优信云.com/#/register?code=JRtE5uIV)<br>
-- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://erwan6.net/auth/register?code=BoObCd)<br>
-- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://haibing822.tntvipaff.cc/#/register?code=GtjJVgml)<br>
-- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://mojie.app/#/register?code=sSdtPtLo)<br>
-- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)
-- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://edu.uodoo.bid/auth/register?code=JMiOQDHf)
+- 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://a.suola.link/cyberguard)<br>
+- 🚀 [优信云：IEPL/IPLC 高速专线，￥15.00/月](https://a.suola.link/youxinyun)<br>
+- 🚀 [尔湾云：最大峰值1000Mbps，全流媒体及ChatGPT解锁！最低12元/月](https://a.suola.link/erwan)<br>
+- 🚀 [TNTCloud：新开机场，季付30，每月低至￥10.00/月](https://a.suola.link/tnt)<br>
+- 🚀 [魔戒：不限时，不限制使用人数，直至套餐流量用完，低至￥14.9/130G流量](https://a.suola.link/mojie)<br>
+- 🚀 [宝可梦星云：新用户首单：9折优惠码：9999，低至5.9/月 ](https://a.suola.link/pokemon)<br>
+- 🚀 [NanoCloud: 绑定TG机器人每天领取免费流量，月付最低1元/月](https://a.suola.link/nanocloud)<br>
+- 🚀 [肥猫云：全专线中转隧道，高速大宽带不限设备数，低至6元/月（年付）](https://a.suola.link/feimao)<br>
+- 🚀 [疾风云：包年 6.9折 优惠码: jf2025](https://a.suola.link/jifeng)<br>
+- 🚀 [闪狐云：不限速，不限设备。高速专线。20元/月](https://a.suola.link/shy)
+:::
+
+::: warning  💬 交流群
+
+- 🫂 Telegram:[@jichang360](https://t.me/jichang360)
+
 :::

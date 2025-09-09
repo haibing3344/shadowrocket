@@ -73,7 +73,7 @@ features:
 ### 友情链接
 - [机场推荐](https://jichangtuijian.uk) - 便宜好用的翻墙性价比机场推荐
 - [Clash Verge Rev](https://clash-verge-rev.org/) - 跨平台代理客户端
-- [一元机场](https://kxsw.bid/) - 提供高性价比的网络服务
+- [一元机场](https://yiyuanvpn.men/) - 提供高性价比的网络服务
 - [两元店机场](http://2yuan.uk) - 高性价比的VPN科学上网服务
 - [淘气兔机场](https://taoqitu.uk/) - 全中转机场
 - [宝可梦机场](https://baokemeng.bid) - 高速梯子vpn,每月领兑换码可以免费使用
@@ -86,3 +86,4 @@ features:
 - [Loon](https://nsloon.uk) - iOS平台最强大的网络代理工具
 - [机场推荐](https://jichangtuijian.bid) - 便宜好用的翻墙性价比机场推荐
 - [ClashMetaForAndroid](https://clashmeta.bid) - 基于ClashMeta的Android代理客户端
+- [Flclash](https://flclash.men) - 基于ClashMeta内核的多平台代理客户端软件
