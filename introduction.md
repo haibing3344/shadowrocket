@@ -70,7 +70,7 @@ Shadowrocket适用于多种网络环境和用户需求：
 通过Shadowrocket，您可以享受更自由、更安全、更高效的网络体验。立即[下载](/download.html)并开始使用这款强大的网络工具吧！
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群
