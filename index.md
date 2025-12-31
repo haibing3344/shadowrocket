@@ -29,7 +29,7 @@ hero:
       link: /tutorial.html
     - theme: brand
       text: 🎉机场推荐
-      link: https://jichangdaohang.com
+      link: https://jichang360.com
 
 
 features:
